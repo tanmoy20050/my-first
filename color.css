@@ -1,8 +1,27 @@
-body{
-    background-color: blue;
-margin: 20%;
-max: width 4px; ;
+p{
+    width: 50%;
 }
-ul{
-    column-gap: 0ch;
+body{
+    background-color: antiquewhite;
+    margin: 5px;
+}
+a{
+    list-style: none;
+    margin: 10%;
+    display: block;
+    padding: 10px;
+}
+nav li{
+   width: 50%;
+   margin: 10px;
+
+}
+footer{
+    text-align:center;
+}
+figure p{
+    color: blue;
+    text-align: center;
+    font-variant: inherit;
+    font-variant-east-asian: jis90;
 }
